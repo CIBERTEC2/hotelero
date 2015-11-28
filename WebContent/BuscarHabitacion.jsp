@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="esS">
-
+noseeeeeeeeeeeeeeeee
 <head>
 
     <meta charset="utf-8">
@@ -72,10 +72,10 @@
                        
                         <li><a href="#"><i class="fa fa-user fa-fw"></i> Cuenta de usuario</a>
                         </li>
-                        <li><a href="#"><i class="fa fa-gear fa-fw"></i> Configuración</a>
+                        <li><a href="#"><i class="fa fa-gear fa-fw"></i> ConfiguraciÃ³n</a>
                         </li>
                         <li class="divider"></li>
-                        <li><a href="login.jsp"><i class="fa fa-sign-out fa-fw"></i> Cerrar sesión</a>
+                        <li><a href="login.jsp"><i class="fa fa-sign-out fa-fw"></i> Cerrar sesiÃ³n</a>
                         </li>
                        
                     </ul>
@@ -109,7 +109,7 @@
                         </li>
                         
                             <li>
-                            <a href="FrmFacturacion.jsp"><i class="fa fa-dashboard fa-fw"></i>Facturación</a>
+                            <a href="FrmFacturacion.jsp"><i class="fa fa-dashboard fa-fw"></i>FacturaciÃ³n</a>
                         </li>
                     
                       
@@ -118,7 +118,7 @@
                             <a href="#"><i class="fa fa-sitemap fa-fw"></i> Mantenimiento<span class="fa arrow"></span></a>
                             <ul class="nav nav-second-level">
                                 <li>
-                                    <a href="MantenimientoHabitacion.jsp">Habitación</a>
+                                    <a href="MantenimientoHabitacion.jsp">HabitaciÃ³n</a>
                                 </li>
                             <li>
                                     <a href="FrmMantenerCliente.jsp">Cliente</a>
@@ -133,7 +133,7 @@
                                             <a href="MantenimientoServicioLlamadas.jsp">Llamadas</a>
                                         </li>
                                         <li>
-                                            <a href="#">Lavandería </a>
+                                            <a href="#">LavanderÃ­a </a>
                                         </li>
                                        
                                     </ul>
@@ -155,7 +155,7 @@
             <section>
                 <div class="col-lg-8 col-lg-offset-1">
                     <div class="page-header">
-                        <h2>Búsqueda de habitaciones</h2>
+                        <h2>BÃºsqueda de habitaciones</h2>
                     </div>
             <!-- /.row -->
             
@@ -165,7 +165,7 @@
 
                  <div class="panel panel-default" >
                             <div class="panel-heading" >
-                                <h4 class="panel-title"><a data-toggle="collapse" data-parent="#steps" href="#stepCuatro">Búsqueda de habitación</a></h4>
+                                <h4 class="panel-title"><a data-toggle="collapse" data-parent="#steps" href="#stepCuatro">BÃºsqueda de habitaciÃ³n</a></h4>
                             </div>
                             <div id="stepCuatro" class="panel-collapse collapse">
                                 <div class="panel-body">
@@ -174,7 +174,7 @@
                                 
                                 
                                    <div class="form-group">
-                                        <label class="col-lg-2 control-label">Categoría de habitación</label>
+                                        <label class="col-lg-2 control-label">CategorÃ­a de habitaciÃ³n</label>
                                         <div class="col-lg-2">
                                             <div class="radio">
                                                 <label>
@@ -231,11 +231,11 @@
 		 <table class="table">
 			 <thead>
 			     <tr>
-			        <th>N° de habitación</th>
-			        <th>Categoría</th>
+			        <th>NÂ° de habitaciÃ³n</th>
+			        <th>CategorÃ­a</th>
 			        <th>Tipo</th>
-			        <th>Precio por día</th>
-			        <th>N° de piso</th>
+			        <th>Precio por dÃ­a</th>
+			        <th>NÂ° de piso</th>
 			       
 			       
 			      </tr>
