@@ -7,7 +7,7 @@ import java.util.List;
 import beans.Habitacion;
 
 public interface HabitacionDAO {
-	
+
 	
 	public abstract List<Habitacion>buscarHabitacion (int categoria,int tipo) throws SQLException;
 	public abstract int registrarHabitacion(Habitacion hab) throws SQLException;
